@@ -1,6 +1,6 @@
 
-function cheer(team){
-    console.log(team);
+function cheer(greet, team){
+    console.log(greet, team);
 };
 
-cheer("Malachit");
+cheer("Hello", "Malachit");
