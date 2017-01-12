@@ -1,6 +1,5 @@
-function greeting(firstName, lastName){
-  console.log(firstName);
-  console.log(lastName);
+function greeting(name){
+  console.log("Greetings for the " + name);
 };
 
-greeting();
+greeting('Bubu');
