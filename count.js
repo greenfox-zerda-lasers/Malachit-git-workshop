@@ -1,5 +1,5 @@
 'use strict';
 
 function count(){
-  console.log('37');
+  console.log('My age is 37');
 }
