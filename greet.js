@@ -1,5 +1,5 @@
 function greeting(name){
-  console.log("Greetnigs!");
+  console.log("Greetings for the " + name);
 };
 
-greeting();
+greeting('Bubu');
