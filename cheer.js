@@ -1,5 +1,5 @@
-function cheer(){
-    console.log("Malachit");
+function cheer(team){
+    console.log(team);
 };
 
-cheer();
+cheer("Malachit");
