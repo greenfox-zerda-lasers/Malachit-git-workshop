@@ -1,5 +1,6 @@
-function cheer(){
-    console.log("udvozlegy");
+
+function cheer(team){
+    console.log(team);
 };
 
-cheer();
+cheer("Malachit");
