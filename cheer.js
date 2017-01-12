@@ -1,5 +1,5 @@
 function cheer(){
-    console.log("Malachit");
+    console.log("udvozlegy");
 };
 
 cheer();
