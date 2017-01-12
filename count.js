@@ -1,5 +1,7 @@
 'use strict';
 
-function count(){
-  console.log('October!');
+function count(param){
+  console.log("Counting the countless " + param + ".");
 }
+
+count("cats");
